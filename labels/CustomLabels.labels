@@ -7,4 +7,11 @@
         <shortDescription>Test Label</shortDescription>
         <value>Testing label</value>
     </labels>
+    <labels>
+        <fullName>Test_label_two</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Test label two</shortDescription>
+        <value>two</value>
+    </labels>
 </CustomLabels>
